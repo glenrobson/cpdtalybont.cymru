@@ -2,3 +2,10 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+IMG_2428.jpeg
+team-2018-80.png
+team-2018.jpg
+toucans_taranau.png
+*.swp
+.DS_store
+vendor
