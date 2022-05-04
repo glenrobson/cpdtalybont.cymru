@@ -53,10 +53,10 @@ description:
     <p class="lead">Thank you to all our recent supporters including Cronfa Eleri, Ceulanamaesmawr Community Council and Magic Little Grants, as well as all of our shirt sponsors.</p>
     <div class="flex-container">
       <div class="flex-item">
-        <a href="http://www.ynniamgen.com/Cronfa%20Eleri/Hafan.html" target="_blank"><img src="http://www.ynniamgen.com/LluniauSylfaenol/PennawdCE.gif" alt="Cronfa Eleri" class="img-fluid" style="height:100px" /></a>
+        <a href="http://www.ynniamgen.com/Cronfa%20Eleri/Hafan.html" target="_blank"><img src="img/sponsors/cronfa_eleri.gif" alt="Cronfa Eleri" class="img-fluid" style="height:100px" /></a>
       </div>
       <div class="flex-item">
-        <a href="http://www.ceulanamaesmawr.org.uk/" target="_blank"><img src="http://www.ceulanamaesmawr.org.uk/Ceulanamaesmawr-CC-ENG/Layout/Graphics/Header.jpg" alt="Ceulanamaesmawr Community Council" class="img-fluid" style="height:100px" /></a>
+        <a href="http://www.ceulanamaesmawr.org.uk/" target="_blank"><img src="img/sponsors/Ceulanamaesmawr.jpg" alt="Ceulanamaesmawr Community Council" class="img-fluid" style="height:100px" /></a>
       </div>
       <div class="flex-item">
         <a href="https://localgiving.org/magic-little-grants/" target="_blank"><img src="https://localgiving-assets-lts.s3-eu-west-1.amazonaws.com/images/MLGBanner.jpg" alt="Magic Little Grants" class="img-fluid" style="height:100px" /></a>
