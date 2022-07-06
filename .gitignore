@@ -9,3 +9,4 @@ toucans_taranau.png
 *.swp
 .DS_store
 vendor
+~.*.docx
